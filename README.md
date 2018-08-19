@@ -10,6 +10,8 @@ This is a repository that demonstrate some examples of flex box styles.
 
 3. run **yarn start** or **node index.js**
 
+4. open browser input **localhost:3000**
+
 ## dependencies
 
 * node: v8.9.4
